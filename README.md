@@ -8,9 +8,9 @@
 
 python3 Base64Change.py 启动  
 
-输入 1   ------文件转base64
+input "1"   ------FileToBase64
 
-输入 2   ------base64转文件
+input "2"   ------Base64ToFile
 
 输入目标文件名 
 
