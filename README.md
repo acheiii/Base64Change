@@ -1,4 +1,4 @@
-# Base64ToFile
+# Base64Change
 
 
 
@@ -6,7 +6,7 @@
 **将base64编码文件逐行转回** 
 
 
-python3 Base64Change.py 启动  
+python3 Base64Change.py
 
 input "1"   ------FileToBase64
 
